@@ -1,0 +1,25 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "un exo ooc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mc-proj/exo_nodejs_ooc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mc-proj/exo_nodejs_ooc/issues"
+  },
+  "homepage": "https://github.com/mc-proj/exo_nodejs_ooc#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "to": "^0.2.9",
+    "update": "^0.7.4"
+  }
+}
